@@ -1,0 +1,25 @@
+body{
+    margin:0 ;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0a0a23;
+}
+.search-box{
+    position:relative;
+    padding: left 30px;
+    width: fit-content; 
+}
+
+.header{
+   
+   display:flex ;
+   justify-content:space-between ;
+    background-color: aquamarine;
+}
+.search-box button{
+    background-color:transparent ;
+    color: azure;
+    
+}
